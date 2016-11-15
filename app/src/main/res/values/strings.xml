@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="title_section1">Messages Inbox</string>
+    <string name="title_section2">Saved Messages</string>
+    <string name="title_section3">Send Message</string>
+    <string name="title_section4">Exit</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="inbox">INBOX\nTap on messages to save</string>
+    <string name="title_activity_splash">Splash</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
