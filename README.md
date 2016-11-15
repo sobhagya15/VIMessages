@@ -1,0 +1,2 @@
+# VIMessages
+The main aim of MESSAGE READER APPLICATION, named VIMessages (Very Important Messages), is to bridge this gap of security between the user’s ease of use and their personal data. This application features a sign-up and login activity, which makes it secure. Also if the user forgets the pin or wants to change it, it can be accomplished easily. Also an option of account deletion is available.
